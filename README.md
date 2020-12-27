@@ -11,7 +11,7 @@
 <div align="center">
  <img src = './images/html.svg' width='30'/> 
  <img src = './images/css.svg' width='30'/> 
- <img src = './images/Bootstrap.svg' width='30'/>
+ <img src = './images/bootstrap.svg' width='30'/>
  <img src = './images/js.svg' width='30'/>
  <img src = './images/nodejs.svg' width='30'/>
  <img src = './images/sql.svg' width='30'/> 
