@@ -11,7 +11,7 @@
 <div align="center">
  <img src = './images/html.svg' width='30'/> 
  <img src = './images/css.svg' width='30'/> 
- <img src = './images/bootstrap.svg' width='33'/>
+ <img src = './images/Bootstrap.svg' width='33'/>
  <img src = './images/js.svg' width='30'/>
  <img src = './images/nodejs.svg' width='30'/>
  <img src = './images/sql.svg' width='30'/> 
@@ -33,7 +33,7 @@
 - 🔭 I’m currently working on: **Data structure and algorithms**
 <br/>
 
-- 🌱 I’m currently learning: **Vue <img src = './images/Vue.svg' width='30'/> || uniapp <img src = './images/uni-app.jpg' width='30'/>**
+- 🌱 I’m currently learning: **Vue <img src = './images/Vue.svg' width='30' style="vertical-align:bottom"/> || uniapp <img src = './images/uni-app.jpg' width='30'/>**
 <br/>
 
 <div align="center">
