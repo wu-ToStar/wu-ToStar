@@ -26,7 +26,7 @@
   <br/>
 
 <div align="center">
-<img src="./coderman.gif" alt="Coder" width="400" height="250" />
+<img src="./code.gif" alt="Coder" width="400" height="250" />
 </div>
 <br/>
 
