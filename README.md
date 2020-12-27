@@ -15,10 +15,9 @@
  <img src = './images/js.svg' width='30'/>
  <img src = './images/nodejs.svg' width='30'/>
  <img src = './images/sql.svg' width='30'/> 
- <img src = './images/mongoDb.svg' width='30'/> 
+ <img src = './images/mongoDB.svg' width='30'/> 
  <img src = './images/git.svg' width='30'/>
  <img src = './images/Webpack.svg' width='30'/>
- <img src = './images/sass.png' width='30'/>
 </div>
 
 <br/><br/>
@@ -34,7 +33,7 @@
 - 🔭 I’m currently working on: **Data structure and algorithms**
 <br/>
 
-- 🌱 I’m currently learning: **Advanced Neural Networks || Digital Image Processing || Computer Vision**
+- 🌱 I’m currently learning: **Vue || uniapp**
 <br/>
 
 <div align="center">
@@ -51,7 +50,7 @@
 
   - [**Drop a Mail**](mailto:2135250352@qq.com)
 
-  - [**Connect via juejin**](https://juejin.cn/user/2937541623819671/posts)
+  - [**Connect via 掘金**](https://juejin.cn/user/2937541623819671/posts)
 
   - [**Visit my Website**](https://tostar.fun/)
 
