@@ -26,14 +26,14 @@
   <br/>
 
 <div align="center">
-<img src="./code.gif" alt="Coder" width="400" height="250" />
+<img src="./code.gif" alt="Coder" width="400" height="275" />
 </div>
 <br/>
 
 - 🔭 I’m currently working on: **Data structure and algorithms**
 <br/>
 
-- 🌱 I’m currently learning: **Vue <img src = './images/Vue.svg' width='20'> || uniapp <img src = './images/uni-app.jpg' width='20'/>**
+- 🌱 I’m currently learning: **Vue <img src = './images/Vue.svg' width='20' align="bottom"> || uniapp <img src = './images/uni-app.jpg' width='20' align="bottom"/>**
 <br/>
 
 <div align="center">
