@@ -33,7 +33,7 @@
 - 🔭 I’m currently working on: **Data structure and algorithms**
 <br/>
 
-- 🌱 I’m currently learning: **Vue || uniapp**
+- 🌱 I’m currently learning: **Vue <img src = './images/Vue.svg' width='30'/> || uniapp <img src = './images/uni-app.jpg' width='30'/>**
 <br/>
 
 <div align="center">
