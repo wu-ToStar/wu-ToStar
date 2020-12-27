@@ -9,40 +9,51 @@
 - ⌨️ Programming Languages I've used:
 
 <div align="center">
- <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/bootstrap.svg' width='33'/> 
- <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/git.svg' width='30'/>
+ <img src = './images/html.svg' width='30'/> 
+ <img src = './images/css.svg' width='30'/> 
+ <img src = './images/bootstrap.svg' width='33'/>
+ <img src = './images/js.svg' width='30'/>
+ <img src = './images/nodejs.svg' width='30'/>
+ <img src = './images/sql.svg' width='30'/> 
+ <img src = './images/mongoDb.svg' width='30'/> 
+ <img src = './images/git.svg' width='30'/>
+ <img src = './images/Webpack.svg' width='30'/>
+ <img src = './images/sass.png' width='30'/>
 </div>
 
 <br/><br/>
 
-- 🙌 I'm currently looking for: **Full-Time SDE || Full-Stack Web Development || Data Science Job Opportunities**
+- 🙌 I'm currently looking for: **Web Development**
   <br/>
 
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+<img src="./coderman.gif" alt="Coder" width="400" height="250" />
 </div>
 <br/>
-- 🔭 I’m currently working on: **Data Science || Full-Stack Web Dev**
+
+- 🔭 I’m currently working on: **Data structure and algorithms**
+<br/>
 
 - 🌱 I’m currently learning: **Advanced Neural Networks || Digital Image Processing || Computer Vision**
+<br/>
 
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+<img src="./giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 
-- 💬 Ask me about: **Technology || Technical Content Writing || Music || Reading || History**
+- 💬 Ask me about: **Technology || Technical Content Writing || Music || Reading**
 
-- 🤓 Active User at: **GitHub || LinkedIn || Hackerrank**
+- 🤓 Active User at: **GitHub || 掘金 || 哔哩哔哩**
 
 - 📫 How to reach me:
 
-  - [**Drop a Mail**](mailto:raghavkhullar16@gmail.com)
+  - [**Drop a Mail**](mailto:2135250352@qq.com)
 
-  - [**Connect via LinkedIn**](https://www.linkedin.com/in/raghav-khullar/)
+  - [**Connect via juejin**](https://juejin.cn/user/2937541623819671/posts)
 
-  - [**Visit my Website**](https://raghavk16.github.io/)
+  - [**Visit my Website**](https://tostar.fun/)
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
@@ -52,7 +63,7 @@
 
 - ⚡ Fun Facts:
 
-  - _Besides programming, I'm a [**Technical Content Writer**](https://www.mindbrews.in/author/raghav-khullar/), a **Melophile** and love to cook._
+  - _Besides programming, I'm a [**Technical Content Writer**](https://tostar.fun/), love to cook._
 
   - _You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code._
 
